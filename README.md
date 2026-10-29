@@ -2,10 +2,11 @@
 
 Enter coins held, an assumed reward rate, fees and duration to estimate potential rewards. The page always reminds the user that reward rates and coin prices can change.
 
-**Live demo:** https://your-project.vercel.app  <!-- replace with your Vercel link -->
+**Live demo:** [https://your-project.vercel.app](https://crypto-reward-earning-calculator.vercel.app/)  <!-- replace with your Vercel link -->
 **GitHub:** [https://github.com/your-username/crypto-rewards-earnings-calculator](https://github.com/TirthDoshi2184/Crypto_Reward_Earning_Calculator)  <!-- replace -->
 
-![Screenshot of the Crypto Rewards Earnings Calculator](docs/screenshot.png)
+<img width="944" height="443" alt="image" src="https://github.com/user-attachments/assets/923d06f7-58f3-445e-9e39-e90df0d94ccd" />
+
 <!-- Take a screenshot of the deployed app, save it as docs/screenshot.png -->
 
 Built with React + Vite. Everything runs in the browser. There is no backend and no API, and the coin price is typed in by the user so the app never depends on live data.
