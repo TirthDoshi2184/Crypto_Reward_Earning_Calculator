@@ -1,1 +1,0 @@
-# Crypto_Reward_Earning_Calculator
