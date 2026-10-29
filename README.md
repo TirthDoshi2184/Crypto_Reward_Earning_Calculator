@@ -3,7 +3,7 @@
 Enter coins held, an assumed reward rate, fees and duration to estimate potential rewards. The page always reminds the user that reward rates and coin prices can change.
 
 **Live demo:** https://your-project.vercel.app  <!-- replace with your Vercel link -->
-**GitHub:** https://github.com/your-username/crypto-rewards-earnings-calculator  <!-- replace -->
+**GitHub:** [https://github.com/your-username/crypto-rewards-earnings-calculator](https://github.com/TirthDoshi2184/Crypto_Reward_Earning_Calculator)  <!-- replace -->
 
 ![Screenshot of the Crypto Rewards Earnings Calculator](docs/screenshot.png)
 <!-- Take a screenshot of the deployed app, save it as docs/screenshot.png -->
